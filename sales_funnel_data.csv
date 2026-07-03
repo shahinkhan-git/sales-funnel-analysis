@@ -1,0 +1,59 @@
+lead_id,lead_source,stage,deal_value,days_in_stage,region,industry,rep_name,month
+L001,LinkedIn,Closed Won,45000,12,EMEA,SaaS,Sarah Chen,January
+L002,Referral,Closed Won,82000,8,MENA,Finance,Ahmed Al-Rashid,January
+L003,Cold Outreach,Proposal,28000,15,EMEA,Retail,Sarah Chen,January
+L004,LinkedIn,Qualified,15000,6,LATAM,SaaS,Maria Santos,January
+L005,Website,Discovery,9000,3,EMEA,Healthcare,James Wright,January
+L006,Referral,Closed Won,120000,10,MENA,Finance,Ahmed Al-Rashid,January
+L007,Cold Outreach,Closed Lost,35000,22,LATAM,Retail,Maria Santos,January
+L008,LinkedIn,Proposal,67000,18,EMEA,SaaS,Sarah Chen,January
+L009,Website,Qualified,22000,7,MENA,Healthcare,Ahmed Al-Rashid,February
+L010,Referral,Closed Won,95000,9,EMEA,Finance,James Wright,February
+L011,LinkedIn,Closed Won,41000,11,LATAM,SaaS,Maria Santos,February
+L012,Cold Outreach,Discovery,8000,2,EMEA,Retail,Sarah Chen,February
+L013,Website,Closed Lost,29000,19,MENA,Healthcare,Ahmed Al-Rashid,February
+L014,Referral,Closed Won,110000,7,EMEA,Finance,James Wright,February
+L015,LinkedIn,Proposal,55000,14,LATAM,SaaS,Maria Santos,February
+L016,Cold Outreach,Qualified,18000,8,EMEA,Retail,Sarah Chen,February
+L017,Website,Closed Won,38000,13,MENA,SaaS,Ahmed Al-Rashid,February
+L018,Referral,Closed Won,73000,6,EMEA,Finance,James Wright,March
+L019,LinkedIn,Closed Lost,42000,25,LATAM,Healthcare,Maria Santos,March
+L020,Cold Outreach,Proposal,31000,16,EMEA,SaaS,Sarah Chen,March
+L021,Website,Closed Won,88000,10,MENA,Finance,Ahmed Al-Rashid,March
+L022,Referral,Closed Won,145000,8,EMEA,Finance,James Wright,March
+L023,LinkedIn,Qualified,27000,5,LATAM,SaaS,Maria Santos,March
+L024,Cold Outreach,Discovery,12000,3,EMEA,Retail,Sarah Chen,March
+L025,Website,Closed Won,52000,11,MENA,Healthcare,Ahmed Al-Rashid,March
+L026,Referral,Proposal,68000,17,EMEA,Finance,James Wright,March
+L027,LinkedIn,Closed Won,39000,9,LATAM,SaaS,Maria Santos,April
+L028,Cold Outreach,Closed Lost,24000,21,EMEA,Retail,Sarah Chen,April
+L029,Website,Qualified,33000,6,MENA,SaaS,Ahmed Al-Rashid,April
+L030,Referral,Closed Won,98000,8,EMEA,Finance,James Wright,April
+L031,LinkedIn,Proposal,61000,15,LATAM,Healthcare,Maria Santos,April
+L032,Cold Outreach,Discovery,7000,2,EMEA,Retail,Sarah Chen,April
+L033,Website,Closed Won,44000,12,MENA,SaaS,Ahmed Al-Rashid,April
+L034,Referral,Closed Won,132000,7,EMEA,Finance,James Wright,April
+L035,LinkedIn,Closed Lost,37000,23,LATAM,SaaS,Maria Santos,April
+L036,Cold Outreach,Qualified,21000,7,EMEA,Healthcare,Sarah Chen,April
+L037,Website,Closed Won,76000,10,MENA,Finance,Ahmed Al-Rashid,May
+L038,Referral,Closed Won,89000,6,EMEA,Finance,James Wright,May
+L039,LinkedIn,Proposal,48000,16,LATAM,SaaS,Maria Santos,May
+L040,Cold Outreach,Closed Won,29000,14,EMEA,Retail,Sarah Chen,May
+L041,Website,Qualified,19000,5,MENA,Healthcare,Ahmed Al-Rashid,May
+L042,Referral,Closed Won,115000,8,EMEA,Finance,James Wright,May
+L043,LinkedIn,Closed Won,43000,11,LATAM,SaaS,Maria Santos,May
+L044,Cold Outreach,Discovery,11000,3,EMEA,Retail,Sarah Chen,May
+L045,Website,Closed Lost,56000,24,MENA,Finance,Ahmed Al-Rashid,May
+L046,Referral,Closed Won,128000,7,EMEA,Finance,James Wright,May
+L047,LinkedIn,Proposal,72000,18,LATAM,SaaS,Maria Santos,June
+L048,Cold Outreach,Closed Won,34000,13,EMEA,Retail,Sarah Chen,June
+L049,Website,Closed Won,91000,9,MENA,Finance,Ahmed Al-Rashid,June
+L050,Referral,Closed Won,156000,6,EMEA,Finance,James Wright,June
+L051,LinkedIn,Qualified,26000,5,LATAM,SaaS,Maria Santos,June
+L052,Cold Outreach,Discovery,9000,2,EMEA,Healthcare,Sarah Chen,June
+L053,Website,Closed Won,63000,11,MENA,SaaS,Ahmed Al-Rashid,June
+L054,Referral,Closed Won,142000,7,EMEA,Finance,James Wright,June
+L055,LinkedIn,Closed Lost,45000,22,LATAM,Retail,Maria Santos,June
+L056,Cold Outreach,Proposal,38000,15,EMEA,SaaS,Sarah Chen,June
+L057,Website,Closed Won,84000,10,MENA,Finance,Ahmed Al-Rashid,June
+L058,Referral,Closed Won,107000,8,EMEA,Finance,James Wright,June
