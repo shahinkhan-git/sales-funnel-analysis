@@ -48,7 +48,7 @@ sales-funnel-analysis/
 ├── chart_2_revenue_by_source.png
 ├── chart_3_rep_performance.png
 ├── chart_4_monthly_trend.png
-├── thumbnail_1200x630.png     ← portfolio thumbnail
+├── thumbnail.png     ← portfolio thumbnail
 └── README.md
 ```
 
